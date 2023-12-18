@@ -64,11 +64,11 @@
 
 Переход на определенную версию проекта осуществляется следующим образом:
 
-git checkout <commit hash>
+**git checkout <commit hash>**
 
 Переход на определенную ветку проекта осуществляется следующим образом:
 
-git checkout <branch name>
+**git checkout <branch name>**
 
 Узнать тип параметры файла:
 
