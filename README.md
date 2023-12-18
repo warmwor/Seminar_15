@@ -96,6 +96,10 @@
 
 **git branch -m main**
 
+### Слияние веток(после перехода в текущую ветку):
+
+**git merge <feature branch name>**
+
 ## Changes from local repository
 
 ## Changes from github to local
