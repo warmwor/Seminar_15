@@ -1,2 +1,2 @@
 feature-file.txt
-feature test file
+feature test
