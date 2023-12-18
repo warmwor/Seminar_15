@@ -70,6 +70,12 @@ git checkout <commit hash>
 
 git checkout <branch name>
 
+Узнать тип параметры файла:
+
+**git cat-file -t <первые символы SHA1>**
+
+**git cat-file -p <первые символы SHA1>**
+
 
 
 ## Changes from local repository
